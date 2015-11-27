@@ -1,7 +1,7 @@
 #
-# Ubuntu Desktop (LXDE) Dockerfile
+# Debian Jessie Desktop (MATE) Dockerfile with QGIS
 #
-# https://github.com/dockerfile/ubuntu-desktop
+# https://github.com/DigitalGlobe/debian-desktop 
 #
 
 # Pull base image.
